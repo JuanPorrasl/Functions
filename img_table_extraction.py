@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Author: Juan PORRAS
 
-This is a temporary script file.
+GitHub: https://github.com/JuanPorrasl
+Twitter: https://twitter.com/juanporrasco
+
 """
 import os
 
